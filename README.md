@@ -1,6 +1,4 @@
 # Tuberculosis--Dashboard--Project-
-# Project Title - Tuberculosis Burden Dashboard
-
 ## Introduction
  - This project provides an in-depth analysis of the global tuberculosis (TB) burden using a Power BI dashboard. The dashboard offers insights into TB prevalence, mortality, HIV-TB relationships, and actionable recommendations for intervention strategies.
 
